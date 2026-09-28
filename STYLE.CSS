@@ -1,7 +1,9 @@
-h1 {
+
+h2 {
 color: rgb(0, 217, 255);
 font-size: 24px;
 }
+
 
 img {
     height: 100px;
@@ -10,6 +12,26 @@ img {
 a {    
 text-decoration: none;
  
+}
+
+#historia-img{
+    /* Aumentar tamano e la imagn */
+    height: 250px;
+    width:250px ;
+}
+
+#historia p {
+     font-size:19px;
+    /* achicar tamano de los parrafos */
+}  
+
+#jugadores h3 {
+    font-size: 18px;
+}
+
+#jugadores li {
+font-size: 17px ;
+
 }
 
 ul {
